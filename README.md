@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+| ?                    | !                                                                   |
+| -------------------- |:-------------------------------------------------------------------:|
+| Who?                 | I'm Erik hi!                                                        |
+| Current occupation?  | Computer Science Student, currently writing my bachelor thesis      |
+| Coding interests?    | Everything low level, C/C++, Rust                                   |
+| Other interests?     | Aspiring artist (Say no to generative AI!), Music                   |
+
 <!--
 **ErikBcd/ErikBcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
