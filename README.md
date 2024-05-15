@@ -5,7 +5,7 @@
 | Who?                 | I'm Erik hi!                                                        |
 | Current occupation?  | Computer Science Student, currently writing my bachelor thesis      |
 | Coding interests?    | Everything low level, C/C++, Rust                                   |
-| Other interests?     | Aspiring artist (Say no to generative AI!), Music                   |
+| Other interests?     | Aspiring artist (🚫AI), Music                                       |
 | arch?                | btw                                                                 |
 
 <!--
