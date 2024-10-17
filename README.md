@@ -3,9 +3,8 @@
 | ?                    | !                                                                   |
 | -------------------- |:-------------------------------------------------------------------:|
 | Who?                 | I'm Erik hi!                                                        |
-| Current occupation?  | Computer Science Student, currently writing my bachelor thesis      |
 | Coding interests?    | Everything low level, C/C++, Rust                                   |
-| Other interests?     | Aspiring artist (🚫AI), Music                                       |
+| Other interests?     | Art, Music                                                          |
 | arch?                | btw                                                                 |
 
 <!--
